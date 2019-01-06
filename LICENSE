@@ -1,6 +1,12 @@
+** Please note: This license pertains to original code and binaries as published
+by the mc-mapper project.  This project may include source code from other projects 
+under other licenses; see either LICENSE or license.md in the relevant directories,
+or also see the 3rdparty.md file for details about projects incorporated into the
+mc-mapper project.
+
 MIT License
 
-Copyright (c) 2018 Rob Paveza
+Copyright (c) 2019 Rob Paveza
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

@@ -9,6 +9,12 @@
 *.userosscache
 *.sln.docstates
 
+# output files from testing apps
+src/utilities/**/*.png
+
+# While using a local mcpe_viz.xml to generate data, don't check it in
+mcpe_viz.xml
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 

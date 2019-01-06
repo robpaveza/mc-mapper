@@ -1,0 +1,4423 @@
+[
+  {
+    "block_name": "stone",
+    "data": 0,
+    "color": "#7d7d7d"
+  },
+  {
+    "block_name": "stone",
+    "data": 1,
+    "color": "#997162"
+  },
+  {
+    "block_name": "stone",
+    "data": 2,
+    "color": "#9f7262"
+  },
+  {
+    "block_name": "stone",
+    "data": 3,
+    "color": "#b3b3b6"
+  },
+  {
+    "block_name": "stone",
+    "data": 4,
+    "color": "#b7b7b9"
+  },
+  {
+    "block_name": "stone",
+    "data": 5,
+    "color": "#828383"
+  },
+  {
+    "block_name": "stone",
+    "data": 6,
+    "color": "#858586"
+  },
+  {
+    "block_name": "grass",
+    "data": 0,
+    "color": "#939393"
+  },
+  {
+    "block_name": "grass",
+    "data": 1,
+    "color": "#939393"
+  },
+  {
+    "block_name": "grass",
+    "data": 2,
+    "color": "#939393"
+  },
+  {
+    "block_name": "grass",
+    "data": 3,
+    "color": "#939393"
+  },
+  {
+    "block_name": "grass",
+    "data": 4,
+    "color": "#939393"
+  },
+  {
+    "block_name": "grass",
+    "data": 5,
+    "color": "#939393"
+  },
+  {
+    "block_name": "grass",
+    "data": 6,
+    "color": "#939393"
+  },
+  {
+    "block_name": "grass",
+    "data": 7,
+    "color": "#939393"
+  },
+  {
+    "block_name": "grass",
+    "data": 8,
+    "color": "#939393"
+  },
+  {
+    "block_name": "grass",
+    "data": 9,
+    "color": "#939393"
+  },
+  {
+    "block_name": "grass",
+    "data": 10,
+    "color": "#939393"
+  },
+  {
+    "block_name": "grass",
+    "data": 11,
+    "color": "#939393"
+  },
+  {
+    "block_name": "grass",
+    "data": 12,
+    "color": "#939393"
+  },
+  {
+    "block_name": "grass",
+    "data": 13,
+    "color": "#939393"
+  },
+  {
+    "block_name": "grass",
+    "data": 14,
+    "color": "#939393"
+  },
+  {
+    "block_name": "grass",
+    "data": 15,
+    "color": "#939393"
+  },
+  {
+    "block_name": "grass",
+    "data": 16,
+    "color": "#939393"
+  },
+  {
+    "block_name": "dirt",
+    "data": 0,
+    "color": "#866043"
+  },
+  {
+    "block_name": "dirt",
+    "data": 1,
+    "color": "#77553b"
+  },
+  {
+    "block_name": "cobblestone",
+    "data": 0,
+    "color": "#7a7a7a"
+  },
+  {
+    "block_name": "planks",
+    "data": 0,
+    "color": "#9c7f4e"
+  },
+  {
+    "block_name": "planks",
+    "data": 1,
+    "color": "#674d2e"
+  },
+  {
+    "block_name": "planks",
+    "data": 2,
+    "color": "#c3b37b"
+  },
+  {
+    "block_name": "planks",
+    "data": 3,
+    "color": "#9a6e4d"
+  },
+  {
+    "block_name": "planks",
+    "data": 4,
+    "color": "#a95b33"
+  },
+  {
+    "block_name": "planks",
+    "data": 5,
+    "color": "#3d2712"
+  },
+  {
+    "block_name": "sapling",
+    "data": 0,
+    "color": "#476625"
+  },
+  {
+    "block_name": "sapling",
+    "data": 1,
+    "color": "#333a21"
+  },
+  {
+    "block_name": "sapling",
+    "data": 2,
+    "color": "#769654"
+  },
+  {
+    "block_name": "sapling",
+    "data": 3,
+    "color": "#305612"
+  },
+  {
+    "block_name": "sapling",
+    "data": 4,
+    "color": "#727314"
+  },
+  {
+    "block_name": "sapling",
+    "data": 5,
+    "color": "#38561c"
+  },
+  {
+    "block_name": "bedrock",
+    "data": 0,
+    "color": "#535353"
+  },
+  {
+    "block_name": "flowing_water",
+    "data": 0,
+    "color": "#2b709c",
+    "biome": "default"
+  },
+  {
+    "block_name": "flowing_water",
+    "data": 0,
+    "color": "#2b709c",
+    "biome": "plains"
+  },
+  {
+    "block_name": "flowing_water",
+    "data": 0,
+    "color": "#2b709c",
+    "biome": "sunflower_plains"
+  },
+  {
+    "block_name": "flowing_water",
+    "data": 0,
+    "color": "#1f6961",
+    "biome": "desert"
+  },
+  {
+    "block_name": "flowing_water",
+    "data": 0,
+    "color": "#004e9e",
+    "biome": "extreme_hills"
+  },
+  {
+    "block_name": "flowing_water",
+    "data": 0,
+    "color": "#12609b",
+    "biome": "forest"
+  },
+  {
+    "block_name": "flowing_water",
+    "data": 0,
+    "color": "#136882",
+    "biome": "flower_forest"
+  },
+  {
+    "block_name": "flowing_water",
+    "data": 0,
+    "color": "#194753",
+    "biome": "taiga"
+  },
+  {
+    "block_name": "flowing_water",
+    "data": 0,
+    "color": "#124453",
+    "biome": "taiga_mutated"
+  },
+  {
+    "block_name": "flowing_water",
+    "data": 0,
+    "color": "#304038",
+    "biome": "swampland"
+  },
+  {
+    "block_name": "flowing_water",
+    "data": 0,
+    "color": "#303d36",
+    "biome": "swampland_mutated"
+  },
+  {
+    "block_name": "flowing_water",
+    "data": 0,
+    "color": "#0054a3",
+    "biome": "river"
+  },
+  {
+    "block_name": "flowing_water",
+    "data": 0,
+    "color": "#5b3837",
+    "biome": "hell"
+  },
+  {
+    "block_name": "flowing_water",
+    "data": 0,
+    "color": "#3e3465",
+    "biome": "the_end"
+  },
+  {
+    "block_name": "flowing_water",
+    "data": 0,
+    "color": "#0e345b",
+    "biome": "frozen_river"
+  },
+  {
+    "block_name": "flowing_water",
+    "data": 0,
+    "color": "#0c3663",
+    "biome": "ice_plains"
+  },
+  {
+    "block_name": "flowing_water",
+    "data": 0,
+    "color": "#0c3663",
+    "biome": "ice_plains_spikes"
+  },
+  {
+    "block_name": "flowing_water",
+    "data": 0,
+    "color": "#0a366a",
+    "biome": "ice_mountains"
+  },
+  {
+    "block_name": "flowing_water",
+    "data": 0,
+    "color": "#585760",
+    "biome": "mushroom_island"
+  },
+  {
+    "block_name": "flowing_water",
+    "data": 0,
+    "color": "#52525d",
+    "biome": "mushroom_island_shore"
+  },
+  {
+    "block_name": "flowing_water",
+    "data": 0,
+    "color": "#0d4f6d",
+    "biome": "beach"
+  },
+  {
+    "block_name": "flowing_water",
+    "data": 0,
+    "color": "#104e67",
+    "biome": "desert_hills"
+  },
+  {
+    "block_name": "flowing_water",
+    "data": 0,
+    "color": "#034485",
+    "biome": "forest_hills"
+  },
+  {
+    "block_name": "flowing_water",
+    "data": 0,
+    "color": "#164053",
+    "biome": "taiga_hills"
+  },
+  {
+    "block_name": "flowing_water",
+    "data": 0,
+    "color": "#023a88",
+    "biome": "extreme_hills_edge"
+  },
+  {
+    "block_name": "flowing_water",
+    "data": 0,
+    "color": "#0c677d",
+    "biome": "jungle"
+  },
+  {
+    "block_name": "flowing_water",
+    "data": 0,
+    "color": "#10658a",
+    "biome": "jungle_mutated"
+  },
+  {
+    "block_name": "flowing_water",
+    "data": 0,
+    "color": "#10658a",
+    "biome": "jungle_hills"
+  },
+  {
+    "block_name": "flowing_water",
+    "data": 0,
+    "color": "#075891",
+    "biome": "jungle_edge"
+  },
+  {
+    "block_name": "flowing_water",
+    "data": 0,
+    "color": "#074177",
+    "biome": "stone_beach"
+  },
+  {
+    "block_name": "flowing_water",
+    "data": 0,
+    "color": "#0c3f69",
+    "biome": "cold_beach"
+  },
+  {
+    "block_name": "flowing_water",
+    "data": 0,
+    "color": "#034c83",
+    "biome": "birch_forest"
+  },
+  {
+    "block_name": "flowing_water",
+    "data": 0,
+    "color": "#064a7d",
+    "biome": "birch_forest_hills"
+  },
+  {
+    "block_name": "flowing_water",
+    "data": 0,
+    "color": "#254585",
+    "biome": "roofed_forest"
+  },
+  {
+    "block_name": "flowing_water",
+    "data": 0,
+    "color": "#133b53",
+    "biome": "cold_taiga"
+  },
+  {
+    "block_name": "flowing_water",
+    "data": 0,
+    "color": "#133b53",
+    "biome": "cold_taiga_mutated"
+  },
+  {
+    "block_name": "flowing_water",
+    "data": 0,
+    "color": "#16394c",
+    "biome": "cold_taiga_hills"
+  },
+  {
+    "block_name": "flowing_water",
+    "data": 0,
+    "color": "#1c454c",
+    "biome": "mega_taiga"
+  },
+  {
+    "block_name": "flowing_water",
+    "data": 0,
+    "color": "#1c454c",
+    "biome": "mega_spruce_taiga"
+  },
+  {
+    "block_name": "flowing_water",
+    "data": 0,
+    "color": "#1c454c",
+    "biome": "mega_taiga_mutated"
+  },
+  {
+    "block_name": "flowing_water",
+    "data": 0,
+    "color": "#1c454c",
+    "biome": "mega_spruce_taiga_mutated"
+  },
+  {
+    "block_name": "flowing_water",
+    "data": 0,
+    "color": "#193f4c",
+    "biome": "mega_taiga_hills"
+  },
+  {
+    "block_name": "flowing_water",
+    "data": 0,
+    "color": "#083f6d",
+    "biome": "extreme_hills_plus_trees"
+  },
+  {
+    "block_name": "flowing_water",
+    "data": 0,
+    "color": "#083f6d",
+    "biome": "extreme_hills_plus_trees_mutated"
+  },
+  {
+    "block_name": "flowing_water",
+    "data": 0,
+    "color": "#083f6d",
+    "biome": "extreme_hills_mutated"
+  },
+  {
+    "block_name": "flowing_water",
+    "data": 0,
+    "color": "#1b5863",
+    "biome": "savanna"
+  },
+  {
+    "block_name": "flowing_water",
+    "data": 0,
+    "color": "#175b6b",
+    "biome": "savanna_plateau"
+  },
+  {
+    "block_name": "flowing_water",
+    "data": 0,
+    "color": "#175b6b",
+    "biome": "savanna_mutated"
+  },
+  {
+    "block_name": "flowing_water",
+    "data": 0,
+    "color": "#315152",
+    "biome": "mesa"
+  },
+  {
+    "block_name": "flowing_water",
+    "data": 0,
+    "color": "#2e5161",
+    "biome": "mesa_bryce"
+  },
+  {
+    "block_name": "flowing_water",
+    "data": 0,
+    "color": "#2e5161",
+    "biome": "mesa_mutated"
+  },
+  {
+    "block_name": "flowing_water",
+    "data": 0,
+    "color": "#365165",
+    "biome": "mesa_plateau_stone"
+  },
+  {
+    "block_name": "flowing_water",
+    "data": 0,
+    "color": "#365165",
+    "biome": "mesa_plateau"
+  },
+  {
+    "block_name": "flowing_water",
+    "data": 0,
+    "color": "#0e5687",
+    "biome": "ocean"
+  },
+  {
+    "block_name": "flowing_water",
+    "data": 0,
+    "color": "#0e5687",
+    "biome": "deep_ocean"
+  },
+  {
+    "block_name": "flowing_water",
+    "data": 0,
+    "color": "#017092",
+    "biome": "warm_ocean"
+  },
+  {
+    "block_name": "flowing_water",
+    "data": 0,
+    "color": "#017092",
+    "biome": "deep_warm_ocean"
+  },
+  {
+    "block_name": "flowing_water",
+    "data": 0,
+    "color": "#075f8c",
+    "biome": "lukewarm_ocean"
+  },
+  {
+    "block_name": "flowing_water",
+    "data": 0,
+    "color": "#075f8c",
+    "biome": "deep_lukewarm_ocean"
+  },
+  {
+    "block_name": "flowing_water",
+    "data": 0,
+    "color": "#135180",
+    "biome": "cold_ocean"
+  },
+  {
+    "block_name": "flowing_water",
+    "data": 0,
+    "color": "#135180",
+    "biome": "deep_cold_ocean"
+  },
+  {
+    "block_name": "flowing_water",
+    "data": 0,
+    "color": "#174773",
+    "biome": "frozen_ocean"
+  },
+  {
+    "block_name": "flowing_water",
+    "data": 0,
+    "color": "#174773",
+    "biome": "deep_frozen_ocean"
+  },
+  {
+    "block_name": "water",
+    "data": 0,
+    "color": "#2b709c",
+    "biome": "default"
+  },
+  {
+    "block_name": "water",
+    "data": 0,
+    "color": "#2b709c",
+    "biome": "plains"
+  },
+  {
+    "block_name": "water",
+    "data": 0,
+    "color": "#2b709c",
+    "biome": "sunflower_plains"
+  },
+  {
+    "block_name": "water",
+    "data": 0,
+    "color": "#1f6961",
+    "biome": "desert"
+  },
+  {
+    "block_name": "water",
+    "data": 0,
+    "color": "#004e9e",
+    "biome": "extreme_hills"
+  },
+  {
+    "block_name": "water",
+    "data": 0,
+    "color": "#12609b",
+    "biome": "forest"
+  },
+  {
+    "block_name": "water",
+    "data": 0,
+    "color": "#136882",
+    "biome": "flower_forest"
+  },
+  {
+    "block_name": "water",
+    "data": 0,
+    "color": "#194753",
+    "biome": "taiga"
+  },
+  {
+    "block_name": "water",
+    "data": 0,
+    "color": "#124453",
+    "biome": "taiga_mutated"
+  },
+  {
+    "block_name": "water",
+    "data": 0,
+    "color": "#304038",
+    "biome": "swampland"
+  },
+  {
+    "block_name": "water",
+    "data": 0,
+    "color": "#303d36",
+    "biome": "swampland_mutated"
+  },
+  {
+    "block_name": "water",
+    "data": 0,
+    "color": "#0054a3",
+    "biome": "river"
+  },
+  {
+    "block_name": "water",
+    "data": 0,
+    "color": "#5b3837",
+    "biome": "hell"
+  },
+  {
+    "block_name": "water",
+    "data": 0,
+    "color": "#3e3465",
+    "biome": "the_end"
+  },
+  {
+    "block_name": "water",
+    "data": 0,
+    "color": "#0e345b",
+    "biome": "frozen_river"
+  },
+  {
+    "block_name": "water",
+    "data": 0,
+    "color": "#0c3663",
+    "biome": "ice_plains"
+  },
+  {
+    "block_name": "water",
+    "data": 0,
+    "color": "#0c3663",
+    "biome": "ice_plains_spikes"
+  },
+  {
+    "block_name": "water",
+    "data": 0,
+    "color": "#0a366a",
+    "biome": "ice_mountains"
+  },
+  {
+    "block_name": "water",
+    "data": 0,
+    "color": "#585760",
+    "biome": "mushroom_island"
+  },
+  {
+    "block_name": "water",
+    "data": 0,
+    "color": "#52525d",
+    "biome": "mushroom_island_shore"
+  },
+  {
+    "block_name": "water",
+    "data": 0,
+    "color": "#0d4f6d",
+    "biome": "beach"
+  },
+  {
+    "block_name": "water",
+    "data": 0,
+    "color": "#104e67",
+    "biome": "desert_hills"
+  },
+  {
+    "block_name": "water",
+    "data": 0,
+    "color": "#034485",
+    "biome": "forest_hills"
+  },
+  {
+    "block_name": "water",
+    "data": 0,
+    "color": "#164053",
+    "biome": "taiga_hills"
+  },
+  {
+    "block_name": "water",
+    "data": 0,
+    "color": "#023a88",
+    "biome": "extreme_hills_edge"
+  },
+  {
+    "block_name": "water",
+    "data": 0,
+    "color": "#0c677d",
+    "biome": "jungle"
+  },
+  {
+    "block_name": "water",
+    "data": 0,
+    "color": "#10658a",
+    "biome": "jungle_mutated"
+  },
+  {
+    "block_name": "water",
+    "data": 0,
+    "color": "#10658a",
+    "biome": "jungle_hills"
+  },
+  {
+    "block_name": "water",
+    "data": 0,
+    "color": "#075891",
+    "biome": "jungle_edge"
+  },
+  {
+    "block_name": "water",
+    "data": 0,
+    "color": "#074177",
+    "biome": "stone_beach"
+  },
+  {
+    "block_name": "water",
+    "data": 0,
+    "color": "#0c3f69",
+    "biome": "cold_beach"
+  },
+  {
+    "block_name": "water",
+    "data": 0,
+    "color": "#034c83",
+    "biome": "birch_forest"
+  },
+  {
+    "block_name": "water",
+    "data": 0,
+    "color": "#064a7d",
+    "biome": "birch_forest_hills"
+  },
+  {
+    "block_name": "water",
+    "data": 0,
+    "color": "#254585",
+    "biome": "roofed_forest"
+  },
+  {
+    "block_name": "water",
+    "data": 0,
+    "color": "#133b53",
+    "biome": "cold_taiga"
+  },
+  {
+    "block_name": "water",
+    "data": 0,
+    "color": "#133b53",
+    "biome": "cold_taiga_mutated"
+  },
+  {
+    "block_name": "water",
+    "data": 0,
+    "color": "#16394c",
+    "biome": "cold_taiga_hills"
+  },
+  {
+    "block_name": "water",
+    "data": 0,
+    "color": "#1c454c",
+    "biome": "mega_taiga"
+  },
+  {
+    "block_name": "water",
+    "data": 0,
+    "color": "#1c454c",
+    "biome": "mega_spruce_taiga"
+  },
+  {
+    "block_name": "water",
+    "data": 0,
+    "color": "#1c454c",
+    "biome": "mega_taiga_mutated"
+  },
+  {
+    "block_name": "water",
+    "data": 0,
+    "color": "#1c454c",
+    "biome": "mega_spruce_taiga_mutated"
+  },
+  {
+    "block_name": "water",
+    "data": 0,
+    "color": "#193f4c",
+    "biome": "mega_taiga_hills"
+  },
+  {
+    "block_name": "water",
+    "data": 0,
+    "color": "#083f6d",
+    "biome": "extreme_hills_plus_trees"
+  },
+  {
+    "block_name": "water",
+    "data": 0,
+    "color": "#083f6d",
+    "biome": "extreme_hills_plus_trees_mutated"
+  },
+  {
+    "block_name": "water",
+    "data": 0,
+    "color": "#083f6d",
+    "biome": "extreme_hills_mutated"
+  },
+  {
+    "block_name": "water",
+    "data": 0,
+    "color": "#1b5863",
+    "biome": "savanna"
+  },
+  {
+    "block_name": "water",
+    "data": 0,
+    "color": "#175b6b",
+    "biome": "savanna_plateau"
+  },
+  {
+    "block_name": "water",
+    "data": 0,
+    "color": "#175b6b",
+    "biome": "savanna_mutated"
+  },
+  {
+    "block_name": "water",
+    "data": 0,
+    "color": "#315152",
+    "biome": "mesa"
+  },
+  {
+    "block_name": "water",
+    "data": 0,
+    "color": "#2e5161",
+    "biome": "mesa_bryce"
+  },
+  {
+    "block_name": "water",
+    "data": 0,
+    "color": "#2e5161",
+    "biome": "mesa_mutated"
+  },
+  {
+    "block_name": "water",
+    "data": 0,
+    "color": "#365165",
+    "biome": "mesa_plateau_stone"
+  },
+  {
+    "block_name": "water",
+    "data": 0,
+    "color": "#365165",
+    "biome": "mesa_plateau"
+  },
+  {
+    "block_name": "water",
+    "data": 0,
+    "color": "#0e5687",
+    "biome": "ocean"
+  },
+  {
+    "block_name": "water",
+    "data": 0,
+    "color": "#0e5687",
+    "biome": "deep_ocean"
+  },
+  {
+    "block_name": "water",
+    "data": 0,
+    "color": "#017092",
+    "biome": "warm_ocean"
+  },
+  {
+    "block_name": "water",
+    "data": 0,
+    "color": "#017092",
+    "biome": "deep_warm_ocean"
+  },
+  {
+    "block_name": "water",
+    "data": 0,
+    "color": "#075f8c",
+    "biome": "lukewarm_ocean"
+  },
+  {
+    "block_name": "water",
+    "data": 0,
+    "color": "#075f8c",
+    "biome": "deep_lukewarm_ocean"
+  },
+  {
+    "block_name": "water",
+    "data": 0,
+    "color": "#135180",
+    "biome": "cold_ocean"
+  },
+  {
+    "block_name": "water",
+    "data": 0,
+    "color": "#135180",
+    "biome": "deep_cold_ocean"
+  },
+  {
+    "block_name": "water",
+    "data": 0,
+    "color": "#174773",
+    "biome": "frozen_ocean"
+  },
+  {
+    "block_name": "water",
+    "data": 0,
+    "color": "#174773",
+    "biome": "deep_frozen_ocean"
+  },
+  {
+    "block_name": "flowing_lava",
+    "data": 0,
+    "color": "#dc7d26"
+  },
+  {
+    "block_name": "lava",
+    "data": 0,
+    "color": "#dc7d26"
+  },
+  {
+    "block_name": "sand",
+    "data": 0,
+    "color": "#dbd3a0"
+  },
+  {
+    "block_name": "sand",
+    "data": 1,
+    "color": "#a95821"
+  },
+  {
+    "block_name": "gravel",
+    "data": 0,
+    "color": "#7e7c7a"
+  },
+  {
+    "block_name": "gold_ore",
+    "data": 0,
+    "color": "#8f8b7c"
+  },
+  {
+    "block_name": "iron_ore",
+    "data": 0,
+    "color": "#87827e"
+  },
+  {
+    "block_name": "coal_ore",
+    "data": 0,
+    "color": "#737373"
+  },
+  {
+    "block_name": "log",
+    "data": 0,
+    "color": "#9a7d4d"
+  },
+  {
+    "block_name": "log",
+    "data": 1,
+    "color": "#685130"
+  },
+  {
+    "block_name": "log",
+    "data": 2,
+    "color": "#b8a679"
+  },
+  {
+    "block_name": "log",
+    "data": 3,
+    "color": "#997649"
+  },
+  {
+    "block_name": "stripped_oak_log",
+    "data": 0,
+    "color": "#a48551"
+  },
+  {
+    "block_name": "stripped_birch_log",
+    "data": 0,
+    "color": "#b9a168"
+  },
+  {
+    "block_name": "stripped_dark_oak_log",
+    "data": 0,
+    "color": "#50402a"
+  },
+  {
+    "block_name": "stripped_acacia_log",
+    "data": 0,
+    "color": "#a65b3a"
+  },
+  {
+    "block_name": "stripped_jungle_log",
+    "data": 0,
+    "color": "#aa8554"
+  },
+  {
+    "block_name": "stripped_spruce_log",
+    "data": 0,
+    "color": "#695230"
+  },
+  {
+    "block_name": "leaves",
+    "data": 0,
+    "color": "#858585"
+  },
+  {
+    "block_name": "leaves",
+    "data": 1,
+    "color": "#808080"
+  },
+  {
+    "block_name": "leaves",
+    "data": 2,
+    "color": "#888888"
+  },
+  {
+    "block_name": "leaves",
+    "data": 3,
+    "color": "#8e8c83"
+  },
+  {
+    "block_name": "leaves",
+    "data": 4,
+    "color": "#636363"
+  },
+  {
+    "block_name": "leaves",
+    "data": 5,
+    "color": "#5b5b5b"
+  },
+  {
+    "block_name": "leaves",
+    "data": 6,
+    "color": "#636363"
+  },
+  {
+    "block_name": "leaves",
+    "data": 7,
+    "color": "#828079"
+  },
+  {
+    "block_name": "sponge",
+    "data": 0,
+    "color": "#c2c354"
+  },
+  {
+    "block_name": "sponge",
+    "data": 1,
+    "color": "#a09e3f"
+  },
+  {
+    "block_name": "glass",
+    "data": 0,
+    "color": "#f4fbfb"
+  },
+  {
+    "block_name": "lapis_ore",
+    "data": 0,
+    "color": "#667086"
+  },
+  {
+    "block_name": "lapis_block",
+    "data": 0,
+    "color": "#264389"
+  },
+  {
+    "block_name": "dispenser",
+    "data": 0,
+    "color": "#606060"
+  },
+  {
+    "block_name": "sandstone",
+    "data": 0,
+    "color": "#dad29e"
+  },
+  {
+    "block_name": "sandstone",
+    "data": 1,
+    "color": "#dad29e"
+  },
+  {
+    "block_name": "sandstone",
+    "data": 2,
+    "color": "#dad29e"
+  },
+  {
+    "block_name": "noteblock",
+    "data": 0,
+    "color": "#644332"
+  },
+  {
+    "block_name": "jukebox",
+    "data": 0,
+    "color": "#6b4937"
+  },
+  {
+    "block_name": "bed",
+    "data": 0,
+    "color": "#9c7f4e"
+  },
+  {
+    "block_name": "golden_rail",
+    "data": 0,
+    "color": "#9a6846"
+  },
+  {
+    "block_name": "detector_rail",
+    "data": 0,
+    "color": "#895c50"
+  },
+  {
+    "block_name": "sticky_piston",
+    "data": 0,
+    "color": "#606060"
+  },
+  {
+    "block_name": "web",
+    "data": 0,
+    "color": "#dcdcdc"
+  },
+  {
+    "block_name": "tallgrass",
+    "data": 0,
+    "color": "#777777"
+  },
+  {
+    "block_name": "tallgrass",
+    "data": 1,
+    "color": "#777777"
+  },
+  {
+    "block_name": "tallgrass",
+    "data": 2,
+    "color": "#999999"
+  },
+  {
+    "block_name": "tallgrass",
+    "data": 3,
+    "color": "#999999"
+  },
+  {
+    "block_name": "seagrass",
+    "data": 0,
+    "color": "#337e08"
+  },
+  {
+    "block_name": "coral",
+    "data": 0,
+    "color": "#2f53c5"
+  },
+  {
+    "block_name": "coral",
+    "data": 1,
+    "color": "#c55498"
+  },
+  {
+    "block_name": "coral",
+    "data": 2,
+    "color": "#a1179f"
+  },
+  {
+    "block_name": "coral",
+    "data": 3,
+    "color": "#a6252e"
+  },
+  {
+    "block_name": "coral",
+    "data": 4,
+    "color": "#d1ba3e"
+  },
+  {
+    "block_name": "coral_fan",
+    "data": 0,
+    "color": "#325bd0"
+  },
+  {
+    "block_name": "coral_fan",
+    "data": 1,
+    "color": "#ca5499"
+  },
+  {
+    "block_name": "coral_fan",
+    "data": 2,
+    "color": "#a0209f"
+  },
+  {
+    "block_name": "coral_fan",
+    "data": 3,
+    "color": "#9e222d"
+  },
+  {
+    "block_name": "coral_fan",
+    "data": 4,
+    "color": "#cdb73d"
+  },
+  {
+    "block_name": "coral_fan_dead",
+    "data": 0,
+    "color": "#807a76"
+  },
+  {
+    "block_name": "coral_fan_dead",
+    "data": 1,
+    "color": "#847d79"
+  },
+  {
+    "block_name": "coral_fan_dead",
+    "data": 2,
+    "color": "#8c8682"
+  },
+  {
+    "block_name": "coral_fan_dead",
+    "data": 3,
+    "color": "#7c7672"
+  },
+  {
+    "block_name": "coral_fan_dead",
+    "data": 4,
+    "color": "#867d79"
+  },
+  {
+    "block_name": "coral_fan_hang",
+    "data": 0,
+    "color": "#325bd0"
+  },
+  {
+    "block_name": "coral_fan_hang",
+    "data": 1,
+    "color": "#ca5499"
+  },
+  {
+    "block_name": "coral_fan_hang",
+    "data": 2,
+    "color": "#807a76"
+  },
+  {
+    "block_name": "coral_fan_hang",
+    "data": 3,
+    "color": "#847d79"
+  },
+  {
+    "block_name": "coral_fan_hang2",
+    "data": 0,
+    "color": "#a0209f"
+  },
+  {
+    "block_name": "coral_fan_hang2",
+    "data": 1,
+    "color": "#9e222d"
+  },
+  {
+    "block_name": "coral_fan_hang2",
+    "data": 2,
+    "color": "#8c8682"
+  },
+  {
+    "block_name": "coral_fan_hang2",
+    "data": 3,
+    "color": "#7c7672"
+  },
+  {
+    "block_name": "coral_fan_hang3",
+    "data": 0,
+    "color": "#cdb73d"
+  },
+  {
+    "block_name": "coral_fan_hang3",
+    "data": 1,
+    "color": "#cdb73d"
+  },
+  {
+    "block_name": "coral_fan_hang3",
+    "data": 2,
+    "color": "#867d79"
+  },
+  {
+    "block_name": "coral_fan_hang3",
+    "data": 3,
+    "color": "#867d79"
+  },
+  {
+    "block_name": "deadbush",
+    "data": 0,
+    "color": "#7b4f19"
+  },
+  {
+    "block_name": "piston",
+    "data": 0,
+    "color": "#606060"
+  },
+  {
+    "block_name": "pistonArmCollision",
+    "data": 0,
+    "color": "#606060"
+  },
+  {
+    "block_name": "wool",
+    "data": 0,
+    "color": "#e9ecec"
+  },
+  {
+    "block_name": "wool",
+    "data": 1,
+    "color": "#f07613"
+  },
+  {
+    "block_name": "wool",
+    "data": 2,
+    "color": "#bd44b3"
+  },
+  {
+    "block_name": "wool",
+    "data": 3,
+    "color": "#3aafd9"
+  },
+  {
+    "block_name": "wool",
+    "data": 4,
+    "color": "#f8c527"
+  },
+  {
+    "block_name": "wool",
+    "data": 5,
+    "color": "#70b919"
+  },
+  {
+    "block_name": "wool",
+    "data": 6,
+    "color": "#ed8dac"
+  },
+  {
+    "block_name": "wool",
+    "data": 7,
+    "color": "#3e4447"
+  },
+  {
+    "block_name": "wool",
+    "data": 8,
+    "color": "#8e8e86"
+  },
+  {
+    "block_name": "wool",
+    "data": 9,
+    "color": "#158991"
+  },
+  {
+    "block_name": "wool",
+    "data": 10,
+    "color": "#792aac"
+  },
+  {
+    "block_name": "wool",
+    "data": 11,
+    "color": "#35399d"
+  },
+  {
+    "block_name": "wool",
+    "data": 12,
+    "color": "#724728"
+  },
+  {
+    "block_name": "wool",
+    "data": 13,
+    "color": "#546d1b"
+  },
+  {
+    "block_name": "wool",
+    "data": 14,
+    "color": "#a02722"
+  },
+  {
+    "block_name": "wool",
+    "data": 15,
+    "color": "#141519"
+  },
+  {
+    "block_name": "yellow_flower",
+    "data": 0,
+    "color": "#6ca200"
+  },
+  {
+    "block_name": "red_flower",
+    "data": 0,
+    "color": "#643904"
+  },
+  {
+    "block_name": "red_flower",
+    "data": 1,
+    "color": "#25988a"
+  },
+  {
+    "block_name": "red_flower",
+    "data": 2,
+    "color": "#b18dd3"
+  },
+  {
+    "block_name": "red_flower",
+    "data": 3,
+    "color": "#a2bf8a"
+  },
+  {
+    "block_name": "red_flower",
+    "data": 4,
+    "color": "#678726"
+  },
+  {
+    "block_name": "red_flower",
+    "data": 5,
+    "color": "#5f8620"
+  },
+  {
+    "block_name": "red_flower",
+    "data": 6,
+    "color": "#5e9941"
+  },
+  {
+    "block_name": "red_flower",
+    "data": 7,
+    "color": "#659649"
+  },
+  {
+    "block_name": "red_flower",
+    "data": 8,
+    "color": "#b0c58b"
+  },
+  {
+    "block_name": "brown_mushroom",
+    "data": 0,
+    "color": "#8a6953"
+  },
+  {
+    "block_name": "red_mushroom",
+    "data": 0,
+    "color": "#c33538"
+  },
+  {
+    "block_name": "gold_block",
+    "data": 0,
+    "color": "#f9ec4e"
+  },
+  {
+    "block_name": "iron_block",
+    "data": 0,
+    "color": "#dbdbdb"
+  },
+  {
+    "block_name": "double_stone_slab",
+    "data": 0,
+    "color": "#9f9f9f"
+  },
+  {
+    "block_name": "double_stone_slab",
+    "data": 1,
+    "color": "#dad29e"
+  },
+  {
+    "block_name": "double_stone_slab",
+    "data": 2,
+    "color": "#9c7f4e"
+  },
+  {
+    "block_name": "double_stone_slab",
+    "data": 3,
+    "color": "#7a7a7a"
+  },
+  {
+    "block_name": "double_stone_slab",
+    "data": 4,
+    "color": "#926356"
+  },
+  {
+    "block_name": "double_stone_slab",
+    "data": 5,
+    "color": "#7a7a7a"
+  },
+  {
+    "block_name": "double_stone_slab",
+    "data": 6,
+    "color": "#ece9e2"
+  },
+  {
+    "block_name": "double_stone_slab",
+    "data": 7,
+    "color": "#562a33"
+  },
+  {
+    "block_name": "stone_slab",
+    "data": 0,
+    "color": "#9f9f9f"
+  },
+  {
+    "block_name": "stone_slab",
+    "data": 1,
+    "color": "#dad29e"
+  },
+  {
+    "block_name": "stone_slab",
+    "data": 2,
+    "color": "#9c7f4e"
+  },
+  {
+    "block_name": "stone_slab",
+    "data": 3,
+    "color": "#7a7a7a"
+  },
+  {
+    "block_name": "stone_slab",
+    "data": 4,
+    "color": "#926356"
+  },
+  {
+    "block_name": "stone_slab",
+    "data": 5,
+    "color": "#7a7a7a"
+  },
+  {
+    "block_name": "stone_slab",
+    "data": 6,
+    "color": "#ece9e2"
+  },
+  {
+    "block_name": "stone_slab",
+    "data": 7,
+    "color": "#562a33"
+  },
+  {
+    "block_name": "coral_block",
+    "data": 0,
+    "color": "#3157ce"
+  },
+  {
+    "block_name": "coral_block",
+    "data": 1,
+    "color": "#cc589d"
+  },
+  {
+    "block_name": "coral_block",
+    "data": 2,
+    "color": "#b720b4"
+  },
+  {
+    "block_name": "coral_block",
+    "data": 3,
+    "color": "#a22330"
+  },
+  {
+    "block_name": "coral_block",
+    "data": 4,
+    "color": "#d0bb3e"
+  },
+  {
+    "block_name": "coral_block",
+    "data": 5,
+    "color": "#827b77"
+  },
+  {
+    "block_name": "coral_block",
+    "data": 6,
+    "color": "#7c7572"
+  },
+  {
+    "block_name": "coral_block",
+    "data": 7,
+    "color": "#837b77"
+  },
+  {
+    "block_name": "coral_block",
+    "data": 8,
+    "color": "#837b77"
+  },
+  {
+    "block_name": "coral_block",
+    "data": 9,
+    "color": "#857e7a"
+  },
+  {
+    "block_name": "brick_block",
+    "data": 0,
+    "color": "#926356"
+  },
+  {
+    "block_name": "tnt",
+    "data": 0,
+    "color": "#82412f"
+  },
+  {
+    "block_name": "bookshelf",
+    "data": 0,
+    "color": "#9c7f4e"
+  },
+  {
+    "block_name": "mossy_cobblestone",
+    "data": 0,
+    "color": "#677967"
+  },
+  {
+    "block_name": "obsidian",
+    "data": 0,
+    "color": "#14121d"
+  },
+  {
+    "block_name": "torch",
+    "data": 0,
+    "color": "#826a3a"
+  },
+  {
+    "block_name": "mob_spawner",
+    "data": 0,
+    "color": "#1a2731"
+  },
+  {
+    "block_name": "oak_stairs",
+    "data": 0,
+    "color": "#9c7f4e"
+  },
+  {
+    "block_name": "chest",
+    "data": 0,
+    "color": "#825e25"
+  },
+  {
+    "block_name": "redstone_wire",
+    "data": 0,
+    "color": "#ef0000"
+  },
+  {
+    "block_name": "diamond_ore",
+    "data": 0,
+    "color": "#818c8f"
+  },
+  {
+    "block_name": "diamond_block",
+    "data": 0,
+    "color": "#61dbd5"
+  },
+  {
+    "block_name": "crafting_table",
+    "data": 0,
+    "color": "#6b472a"
+  },
+  {
+    "block_name": "wheat",
+    "data": 0,
+    "color": "#00b312"
+  },
+  {
+    "block_name": "wheat",
+    "data": 1,
+    "color": "#12ac0f"
+  },
+  {
+    "block_name": "wheat",
+    "data": 2,
+    "color": "#1c890b"
+  },
+  {
+    "block_name": "wheat",
+    "data": 3,
+    "color": "#258b08"
+  },
+  {
+    "block_name": "wheat",
+    "data": 4,
+    "color": "#2e8007"
+  },
+  {
+    "block_name": "wheat",
+    "data": 5,
+    "color": "#427b07"
+  },
+  {
+    "block_name": "wheat",
+    "data": 6,
+    "color": "#507607"
+  },
+  {
+    "block_name": "wheat",
+    "data": 7,
+    "color": "#566607"
+  },
+  {
+    "block_name": "farmland",
+    "data": 0,
+    "color": "#4b280d"
+  },
+  {
+    "block_name": "farmland",
+    "data": 1,
+    "color": "#734b2d"
+  },
+  {
+    "block_name": "furnace",
+    "data": 0,
+    "color": "#606060"
+  },
+  {
+    "block_name": "furnace",
+    "data": 1,
+    "color": "#606060"
+  },
+  {
+    "block_name": "lit_furnace",
+    "data": 0,
+    "color": "#606060"
+  },
+  {
+    "block_name": "lit_furnace",
+    "data": 1,
+    "color": "#606060"
+  },
+  {
+    "block_name": "standing_sign",
+    "data": 0,
+    "color": "#9c7f4e"
+  },
+  {
+    "block_name": "wooden_door",
+    "data": 0,
+    "color": "#866532"
+  },
+  {
+    "block_name": "wooden_door",
+    "data": 1,
+    "color": "#614b31"
+  },
+  {
+    "block_name": "wooden_door",
+    "data": 2,
+    "color": "#c6bd8d"
+  },
+  {
+    "block_name": "wooden_door",
+    "data": 3,
+    "color": "#926b4d"
+  },
+  {
+    "block_name": "wooden_door",
+    "data": 4,
+    "color": "#9b5836"
+  },
+  {
+    "block_name": "wooden_door",
+    "data": 5,
+    "color": "#412c17"
+  },
+  {
+    "block_name": "wooden_door",
+    "data": 6,
+    "color": "#a3a3a3"
+  },
+  {
+    "block_name": "ladder",
+    "data": 0,
+    "color": "#795f34"
+  },
+  {
+    "block_name": "rail",
+    "data": 0,
+    "color": "#786b56"
+  },
+  {
+    "block_name": "stone_stairs",
+    "data": 0,
+    "color": "#7a7a7a"
+  },
+  {
+    "block_name": "wall_sign",
+    "data": 0,
+    "color": "#9c7f4e"
+  },
+  {
+    "block_name": "lever",
+    "data": 0,
+    "color": "#6a5940"
+  },
+  {
+    "block_name": "stone_pressure_plate",
+    "data": 0,
+    "color": "#7d7d7d"
+  },
+  {
+    "block_name": "stone_pressure_plate",
+    "data": 1,
+    "color": "#997162"
+  },
+  {
+    "block_name": "stone_pressure_plate",
+    "data": 2,
+    "color": "#9f7262"
+  },
+  {
+    "block_name": "stone_pressure_plate",
+    "data": 3,
+    "color": "#b3b3b6"
+  },
+  {
+    "block_name": "stone_pressure_plate",
+    "data": 4,
+    "color": "#b7b7b9"
+  },
+  {
+    "block_name": "stone_pressure_plate",
+    "data": 5,
+    "color": "#828383"
+  },
+  {
+    "block_name": "stone_pressure_plate",
+    "data": 6,
+    "color": "#858586"
+  },
+  {
+    "block_name": "iron_door",
+    "data": 0,
+    "color": "#866532"
+  },
+  {
+    "block_name": "iron_door",
+    "data": 1,
+    "color": "#614b31"
+  },
+  {
+    "block_name": "iron_door",
+    "data": 2,
+    "color": "#c6bd8d"
+  },
+  {
+    "block_name": "iron_door",
+    "data": 3,
+    "color": "#926b4d"
+  },
+  {
+    "block_name": "iron_door",
+    "data": 4,
+    "color": "#9b5836"
+  },
+  {
+    "block_name": "iron_door",
+    "data": 5,
+    "color": "#412c17"
+  },
+  {
+    "block_name": "iron_door",
+    "data": 6,
+    "color": "#a3a3a3"
+  },
+  {
+    "block_name": "wooden_pressure_plate",
+    "data": 0,
+    "color": "#9c7f4e"
+  },
+  {
+    "block_name": "wooden_pressure_plate",
+    "data": 1,
+    "color": "#674d2e"
+  },
+  {
+    "block_name": "wooden_pressure_plate",
+    "data": 2,
+    "color": "#c3b37b"
+  },
+  {
+    "block_name": "wooden_pressure_plate",
+    "data": 3,
+    "color": "#9a6e4d"
+  },
+  {
+    "block_name": "wooden_pressure_plate",
+    "data": 4,
+    "color": "#a95b33"
+  },
+  {
+    "block_name": "wooden_pressure_plate",
+    "data": 5,
+    "color": "#3d2712"
+  },
+  {
+    "block_name": "acacia_pressure_plate",
+    "data": 0,
+    "color": "#a95b33"
+  },
+  {
+    "block_name": "birch_pressure_plate",
+    "data": 0,
+    "color": "#c3b37b"
+  },
+  {
+    "block_name": "dark_oak_pressure_plate",
+    "data": 0,
+    "color": "#3d2712"
+  },
+  {
+    "block_name": "jungle_pressure_plate",
+    "data": 0,
+    "color": "#9a6e4d"
+  },
+  {
+    "block_name": "spruce_pressure_plate",
+    "data": 0,
+    "color": "#674d2e"
+  },
+  {
+    "block_name": "redstone_ore",
+    "data": 0,
+    "color": "#846b6b"
+  },
+  {
+    "block_name": "lit_redstone_ore",
+    "data": 0,
+    "color": "#846b6b"
+  },
+  {
+    "block_name": "unlit_redstone_torch",
+    "data": 0,
+    "color": "#5d3e26"
+  },
+  {
+    "block_name": "redstone_torch",
+    "data": 0,
+    "color": "#a74b29"
+  },
+  {
+    "block_name": "stone_button",
+    "data": 0,
+    "color": "#7d7d7d"
+  },
+  {
+    "block_name": "stone_button",
+    "data": 1,
+    "color": "#997162"
+  },
+  {
+    "block_name": "stone_button",
+    "data": 2,
+    "color": "#9f7262"
+  },
+  {
+    "block_name": "stone_button",
+    "data": 3,
+    "color": "#b3b3b6"
+  },
+  {
+    "block_name": "stone_button",
+    "data": 4,
+    "color": "#b7b7b9"
+  },
+  {
+    "block_name": "stone_button",
+    "data": 5,
+    "color": "#828383"
+  },
+  {
+    "block_name": "stone_button",
+    "data": 6,
+    "color": "#858586"
+  },
+  {
+    "block_name": "snow_layer",
+    "data": 0,
+    "color": "#effbfb"
+  },
+  {
+    "block_name": "ice",
+    "data": 0,
+    "color": "#7dadff"
+  },
+  {
+    "block_name": "snow",
+    "data": 0,
+    "color": "#effbfb"
+  },
+  {
+    "block_name": "cactus",
+    "data": 0,
+    "color": "#0c5b16"
+  },
+  {
+    "block_name": "clay",
+    "data": 0,
+    "color": "#9ea4b0"
+  },
+  {
+    "block_name": "reeds",
+    "data": 0,
+    "color": "#95c066"
+  },
+  {
+    "block_name": "kelp",
+    "data": 0,
+    "color": "#59822f"
+  },
+  {
+    "block_name": "dried_kelp_block",
+    "data": 0,
+    "color": "#323a26"
+  },
+  {
+    "block_name": "fence",
+    "data": 0,
+    "color": "#9c7f4e"
+  },
+  {
+    "block_name": "fence",
+    "data": 1,
+    "color": "#674d2e"
+  },
+  {
+    "block_name": "fence",
+    "data": 2,
+    "color": "#c3b37b"
+  },
+  {
+    "block_name": "fence",
+    "data": 3,
+    "color": "#9a6e4d"
+  },
+  {
+    "block_name": "fence",
+    "data": 4,
+    "color": "#a95b33"
+  },
+  {
+    "block_name": "fence",
+    "data": 5,
+    "color": "#3d2712"
+  },
+  {
+    "block_name": "nether_brick_fence",
+    "data": 0,
+    "color": "#562a33"
+  },
+  {
+    "block_name": "pumpkin",
+    "data": 0,
+    "color": "#c07615"
+  },
+  {
+    "block_name": "pumpkin",
+    "data": 1,
+    "color": "#c07615"
+  },
+  {
+    "block_name": "pumpkin",
+    "data": 2,
+    "color": "#c07615"
+  },
+  {
+    "block_name": "carved_pumpkin",
+    "data": 0,
+    "color": "#c07615"
+  },
+  {
+    "block_name": "carved_pumpkin",
+    "data": 1,
+    "color": "#c07615"
+  },
+  {
+    "block_name": "carved_pumpkin",
+    "data": 2,
+    "color": "#c07615"
+  },
+  {
+    "block_name": "netherrack",
+    "data": 0,
+    "color": "#6f3634"
+  },
+  {
+    "block_name": "magma",
+    "data": 0,
+    "color": "#864119"
+  },
+  {
+    "block_name": "soul_sand",
+    "data": 0,
+    "color": "#544033"
+  },
+  {
+    "block_name": "glowstone",
+    "data": 0,
+    "color": "#8f7645"
+  },
+  {
+    "block_name": "portal",
+    "data": 0,
+    "color": "#580bbf"
+  },
+  {
+    "block_name": "lit_pumpkin",
+    "data": 0,
+    "color": "#c07615"
+  },
+  {
+    "block_name": "lit_pumpkin",
+    "data": 1,
+    "color": "#c07615"
+  },
+  {
+    "block_name": "lit_pumpkin",
+    "data": 2,
+    "color": "#c07615"
+  },
+  {
+    "block_name": "cake",
+    "data": 0,
+    "color": "#e4cdce"
+  },
+  {
+    "block_name": "cake",
+    "data": 1,
+    "color": "#e4cdce"
+  },
+  {
+    "block_name": "unpowered_repeater",
+    "data": 0,
+    "color": "#979393"
+  },
+  {
+    "block_name": "unpowered_repeater",
+    "data": 1,
+    "color": "#a09393"
+  },
+  {
+    "block_name": "powered_repeater",
+    "data": 0,
+    "color": "#979393"
+  },
+  {
+    "block_name": "powered_repeater",
+    "data": 1,
+    "color": "#a09393"
+  },
+  {
+    "block_name": "invisibleBedrock",
+    "data": 0,
+    "color": "#7d7d7d"
+  },
+  {
+    "block_name": "invisibleBedrock",
+    "data": 1,
+    "color": "#997162"
+  },
+  {
+    "block_name": "invisibleBedrock",
+    "data": 2,
+    "color": "#9f7262"
+  },
+  {
+    "block_name": "invisibleBedrock",
+    "data": 3,
+    "color": "#b3b3b6"
+  },
+  {
+    "block_name": "invisibleBedrock",
+    "data": 4,
+    "color": "#b7b7b9"
+  },
+  {
+    "block_name": "invisibleBedrock",
+    "data": 5,
+    "color": "#828383"
+  },
+  {
+    "block_name": "invisibleBedrock",
+    "data": 6,
+    "color": "#858586"
+  },
+  {
+    "block_name": "barrier",
+    "data": 0,
+    "color": "#d21919"
+  },
+  {
+    "block_name": "trapdoor",
+    "data": 0,
+    "color": "#7e5d2d"
+  },
+  {
+    "block_name": "acacia_trapdoor",
+    "data": 0,
+    "color": "#9c5733"
+  },
+  {
+    "block_name": "birch_trapdoor",
+    "data": 0,
+    "color": "#cfc29d"
+  },
+  {
+    "block_name": "dark_oak_trapdoor",
+    "data": 0,
+    "color": "#4b3117"
+  },
+  {
+    "block_name": "jungle_trapdoor",
+    "data": 0,
+    "color": "#986e4d"
+  },
+  {
+    "block_name": "spruce_trapdoor",
+    "data": 0,
+    "color": "#634b31"
+  },
+  {
+    "block_name": "monster_egg",
+    "data": 0,
+    "color": "#7a7a7a"
+  },
+  {
+    "block_name": "monster_egg",
+    "data": 1,
+    "color": "#7a7a7a"
+  },
+  {
+    "block_name": "monster_egg",
+    "data": 2,
+    "color": "#72776a"
+  },
+  {
+    "block_name": "monster_egg",
+    "data": 3,
+    "color": "#767676"
+  },
+  {
+    "block_name": "monster_egg",
+    "data": 4,
+    "color": "#767676"
+  },
+  {
+    "block_name": "monster_egg",
+    "data": 5,
+    "color": "#7d7d7d"
+  },
+  {
+    "block_name": "stonebrick",
+    "data": 0,
+    "color": "#7a7a7a"
+  },
+  {
+    "block_name": "stonebrick",
+    "data": 1,
+    "color": "#72776a"
+  },
+  {
+    "block_name": "stonebrick",
+    "data": 2,
+    "color": "#767676"
+  },
+  {
+    "block_name": "stonebrick",
+    "data": 3,
+    "color": "#767676"
+  },
+  {
+    "block_name": "brown_mushroom_block",
+    "data": 0,
+    "color": "#caab78"
+  },
+  {
+    "block_name": "brown_mushroom_block",
+    "data": 1,
+    "color": "#8d6a53"
+  },
+  {
+    "block_name": "brown_mushroom_block",
+    "data": 2,
+    "color": "#8d6a53"
+  },
+  {
+    "block_name": "brown_mushroom_block",
+    "data": 3,
+    "color": "#8d6a53"
+  },
+  {
+    "block_name": "brown_mushroom_block",
+    "data": 4,
+    "color": "#8d6a53"
+  },
+  {
+    "block_name": "brown_mushroom_block",
+    "data": 5,
+    "color": "#8d6a53"
+  },
+  {
+    "block_name": "brown_mushroom_block",
+    "data": 6,
+    "color": "#8d6a53"
+  },
+  {
+    "block_name": "brown_mushroom_block",
+    "data": 7,
+    "color": "#8d6a53"
+  },
+  {
+    "block_name": "brown_mushroom_block",
+    "data": 8,
+    "color": "#8d6a53"
+  },
+  {
+    "block_name": "brown_mushroom_block",
+    "data": 9,
+    "color": "#8d6a53"
+  },
+  {
+    "block_name": "brown_mushroom_block",
+    "data": 10,
+    "color": "#caab78"
+  },
+  {
+    "block_name": "brown_mushroom_block",
+    "data": 11,
+    "color": "#caab78"
+  },
+  {
+    "block_name": "brown_mushroom_block",
+    "data": 12,
+    "color": "#caab78"
+  },
+  {
+    "block_name": "brown_mushroom_block",
+    "data": 13,
+    "color": "#caab78"
+  },
+  {
+    "block_name": "brown_mushroom_block",
+    "data": 14,
+    "color": "#8d6a53"
+  },
+  {
+    "block_name": "brown_mushroom_block",
+    "data": 15,
+    "color": "#cfccc2"
+  },
+  {
+    "block_name": "red_mushroom_block",
+    "data": 0,
+    "color": "#caab78"
+  },
+  {
+    "block_name": "red_mushroom_block",
+    "data": 1,
+    "color": "#b62524"
+  },
+  {
+    "block_name": "red_mushroom_block",
+    "data": 2,
+    "color": "#b62524"
+  },
+  {
+    "block_name": "red_mushroom_block",
+    "data": 3,
+    "color": "#b62524"
+  },
+  {
+    "block_name": "red_mushroom_block",
+    "data": 4,
+    "color": "#b62524"
+  },
+  {
+    "block_name": "red_mushroom_block",
+    "data": 5,
+    "color": "#b62524"
+  },
+  {
+    "block_name": "red_mushroom_block",
+    "data": 6,
+    "color": "#b62524"
+  },
+  {
+    "block_name": "red_mushroom_block",
+    "data": 7,
+    "color": "#b62524"
+  },
+  {
+    "block_name": "red_mushroom_block",
+    "data": 8,
+    "color": "#b62524"
+  },
+  {
+    "block_name": "red_mushroom_block",
+    "data": 9,
+    "color": "#b62524"
+  },
+  {
+    "block_name": "red_mushroom_block",
+    "data": 10,
+    "color": "#caab78"
+  },
+  {
+    "block_name": "red_mushroom_block",
+    "data": 11,
+    "color": "#caab78"
+  },
+  {
+    "block_name": "red_mushroom_block",
+    "data": 12,
+    "color": "#caab78"
+  },
+  {
+    "block_name": "red_mushroom_block",
+    "data": 13,
+    "color": "#caab78"
+  },
+  {
+    "block_name": "red_mushroom_block",
+    "data": 14,
+    "color": "#b62524"
+  },
+  {
+    "block_name": "red_mushroom_block",
+    "data": 15,
+    "color": "#cfccc2"
+  },
+  {
+    "block_name": "iron_bars",
+    "data": 0,
+    "color": "#6d6c6a"
+  },
+  {
+    "block_name": "glass_pane",
+    "data": 0,
+    "color": "#f4fbfb"
+  },
+  {
+    "block_name": "melon_block",
+    "data": 0,
+    "color": "#979924"
+  },
+  {
+    "block_name": "pumpkin_stem",
+    "data": 0,
+    "color": "#999999"
+  },
+  {
+    "block_name": "pumpkin_stem",
+    "data": 1,
+    "color": "#8b8b8b"
+  },
+  {
+    "block_name": "melon_stem",
+    "data": 0,
+    "color": "#999999"
+  },
+  {
+    "block_name": "melon_stem",
+    "data": 1,
+    "color": "#8b8b8b"
+  },
+  {
+    "block_name": "vine",
+    "data": 0,
+    "color": "#6f6f6f"
+  },
+  {
+    "block_name": "fence_gate",
+    "data": 0,
+    "color": "#9c7f4e"
+  },
+  {
+    "block_name": "brick_stairs",
+    "data": 0,
+    "color": "#926356"
+  },
+  {
+    "block_name": "mycelium",
+    "data": 0,
+    "color": "#6f6369"
+  },
+  {
+    "block_name": "mycelium",
+    "data": 1,
+    "color": "#6f6369"
+  },
+  {
+    "block_name": "waterlily",
+    "data": 0,
+    "color": "#0e3b15"
+  },
+  {
+    "block_name": "brewing_stand",
+    "data": 0,
+    "color": "#7c6751"
+  },
+  {
+    "block_name": "cauldron",
+    "data": 0,
+    "color": "#424242"
+  },
+  {
+    "block_name": "end_portal_frame",
+    "data": 0,
+    "color": "#597560"
+  },
+  {
+    "block_name": "end_portal",
+    "data": 0,
+    "color": "#08131a"
+  },
+  {
+    "block_name": "end_gateway",
+    "data": 0,
+    "color": "#11191f"
+  },
+  {
+    "block_name": "end_stone",
+    "data": 0,
+    "color": "#dddfa5"
+  },
+  {
+    "block_name": "end_rod",
+    "data": 0,
+    "color": "#dcc5cd"
+  },
+  {
+    "block_name": "end_bricks",
+    "data": 0,
+    "color": "#e1e6aa"
+  },
+  {
+    "block_name": "redstone_lamp",
+    "data": 0,
+    "color": "#462b1a"
+  },
+  {
+    "block_name": "lit_redstone_lamp",
+    "data": 0,
+    "color": "#775937"
+  },
+  {
+    "block_name": "cocoa",
+    "data": 0,
+    "color": "#8a8c40"
+  },
+  {
+    "block_name": "cocoa",
+    "data": 1,
+    "color": "#896b33"
+  },
+  {
+    "block_name": "cocoa",
+    "data": 2,
+    "color": "#91501e"
+  },
+  {
+    "block_name": "emerald_ore",
+    "data": 0,
+    "color": "#6d8074"
+  },
+  {
+    "block_name": "emerald_block",
+    "data": 0,
+    "color": "#51d975"
+  },
+  {
+    "block_name": "spruce_stairs",
+    "data": 0,
+    "color": "#674d2e"
+  },
+  {
+    "block_name": "birch_stairs",
+    "data": 0,
+    "color": "#c3b37b"
+  },
+  {
+    "block_name": "jungle_stairs",
+    "data": 0,
+    "color": "#9a6e4d"
+  },
+  {
+    "block_name": "beacon",
+    "data": 0,
+    "color": "#74ddd7"
+  },
+  {
+    "block_name": "conduit",
+    "data": 0,
+    "color": "#a08c72"
+  },
+  {
+    "block_name": "wooden_button",
+    "data": 0,
+    "color": "#9c7f4e"
+  },
+  {
+    "block_name": "wooden_button",
+    "data": 1,
+    "color": "#674d2e"
+  },
+  {
+    "block_name": "wooden_button",
+    "data": 2,
+    "color": "#c3b37b"
+  },
+  {
+    "block_name": "wooden_button",
+    "data": 3,
+    "color": "#9a6e4d"
+  },
+  {
+    "block_name": "wooden_button",
+    "data": 4,
+    "color": "#a95b33"
+  },
+  {
+    "block_name": "wooden_button",
+    "data": 5,
+    "color": "#3d2712"
+  },
+  {
+    "block_name": "acacia_button",
+    "data": 0,
+    "color": "#a95b33"
+  },
+  {
+    "block_name": "birch_button",
+    "data": 0,
+    "color": "#c3b37b"
+  },
+  {
+    "block_name": "dark_oak_button",
+    "data": 0,
+    "color": "#3d2712"
+  },
+  {
+    "block_name": "jungle_button",
+    "data": 0,
+    "color": "#9a6e4d"
+  },
+  {
+    "block_name": "spruce_button",
+    "data": 0,
+    "color": "#674d2e"
+  },
+  {
+    "block_name": "stone_brick_stairs",
+    "data": 0,
+    "color": "#7a7a7a"
+  },
+  {
+    "block_name": "stone_brick_stairs",
+    "data": 1,
+    "color": "#72776a"
+  },
+  {
+    "block_name": "stone_brick_stairs",
+    "data": 2,
+    "color": "#767676"
+  },
+  {
+    "block_name": "stone_brick_stairs",
+    "data": 3,
+    "color": "#767676"
+  },
+  {
+    "block_name": "nether_brick",
+    "data": 0,
+    "color": "#562a33"
+  },
+  {
+    "block_name": "nether_brick_stairs",
+    "data": 0,
+    "color": "#562a33"
+  },
+  {
+    "block_name": "red_nether_brick",
+    "data": 0,
+    "color": "#440406"
+  },
+  {
+    "block_name": "nether_wart",
+    "data": 0,
+    "color": "#6a0e1e"
+  },
+  {
+    "block_name": "nether_wart",
+    "data": 1,
+    "color": "#6c0f16"
+  },
+  {
+    "block_name": "nether_wart",
+    "data": 2,
+    "color": "#6c0f16"
+  },
+  {
+    "block_name": "nether_wart",
+    "data": 3,
+    "color": "#6f1211"
+  },
+  {
+    "block_name": "nether_wart_block",
+    "data": 0,
+    "color": "#750607"
+  },
+  {
+    "block_name": "enchanting_table",
+    "data": 0,
+    "color": "#67403b"
+  },
+  {
+    "block_name": "dropper",
+    "data": 0,
+    "color": "#606060"
+  },
+  {
+    "block_name": "activator_rail",
+    "data": 0,
+    "color": "#8d5146"
+  },
+  {
+    "block_name": "sandstone_stairs",
+    "data": 0,
+    "color": "#dad29e"
+  },
+  {
+    "block_name": "sandstone_stairs",
+    "data": 1,
+    "color": "#dad29e"
+  },
+  {
+    "block_name": "sandstone_stairs",
+    "data": 2,
+    "color": "#dad29e"
+  },
+  {
+    "block_name": "tripwire_hook",
+    "data": 0,
+    "color": "#8a8171"
+  },
+  {
+    "block_name": "tripWire",
+    "data": 0,
+    "color": "#919191"
+  },
+  {
+    "block_name": "cobblestone_wall",
+    "data": 0,
+    "color": "#7a7a7a"
+  },
+  {
+    "block_name": "cobblestone_wall",
+    "data": 1,
+    "color": "#677967"
+  },
+  {
+    "block_name": "flower_pot",
+    "data": 0,
+    "color": "#764133"
+  },
+  {
+    "block_name": "carrots",
+    "data": 0,
+    "color": "#01ab10"
+  },
+  {
+    "block_name": "carrots",
+    "data": 1,
+    "color": "#01bb0f"
+  },
+  {
+    "block_name": "carrots",
+    "data": 2,
+    "color": "#00be10"
+  },
+  {
+    "block_name": "carrots",
+    "data": 3,
+    "color": "#158002"
+  },
+  {
+    "block_name": "potatoes",
+    "data": 0,
+    "color": "#01ab10"
+  },
+  {
+    "block_name": "potatoes",
+    "data": 1,
+    "color": "#01bb0f"
+  },
+  {
+    "block_name": "potatoes",
+    "data": 2,
+    "color": "#00be10"
+  },
+  {
+    "block_name": "potatoes",
+    "data": 3,
+    "color": "#22aa24"
+  },
+  {
+    "block_name": "skull",
+    "data": 0,
+    "color": "#544033"
+  },
+  {
+    "block_name": "anvil",
+    "data": 0,
+    "color": "#403c3c"
+  },
+  {
+    "block_name": "anvil",
+    "data": 1,
+    "color": "#403c3c"
+  },
+  {
+    "block_name": "anvil",
+    "data": 2,
+    "color": "#403c3c"
+  },
+  {
+    "block_name": "anvil",
+    "data": 3,
+    "color": "#404040"
+  },
+  {
+    "block_name": "trapped_chest",
+    "data": 0,
+    "color": "#825e25"
+  },
+  {
+    "block_name": "light_weighted_pressure_plate",
+    "data": 0,
+    "color": "#f9ec4e"
+  },
+  {
+    "block_name": "heavy_weighted_pressure_plate",
+    "data": 0,
+    "color": "#dbdbdb"
+  },
+  {
+    "block_name": "unpowered_comparator",
+    "data": 0,
+    "color": "#9c9695"
+  },
+  {
+    "block_name": "unpowered_comparator",
+    "data": 1,
+    "color": "#a59594"
+  },
+  {
+    "block_name": "powered_comparator",
+    "data": 0,
+    "color": "#9c9695"
+  },
+  {
+    "block_name": "powered_comparator",
+    "data": 1,
+    "color": "#a59594"
+  },
+  {
+    "block_name": "daylight_detector",
+    "data": 0,
+    "color": "#82745e"
+  },
+  {
+    "block_name": "daylight_detector",
+    "data": 1,
+    "color": "#6a6d70"
+  },
+  {
+    "block_name": "redstone_block",
+    "data": 0,
+    "color": "#ab1b09"
+  },
+  {
+    "block_name": "structure_block",
+    "data": 0,
+    "color": "#584a5a"
+  },
+  {
+    "block_name": "structure_block",
+    "data": 1,
+    "color": "#4f4150"
+  },
+  {
+    "block_name": "structure_block",
+    "data": 2,
+    "color": "#564757"
+  },
+  {
+    "block_name": "structure_block",
+    "data": 3,
+    "color": "#453946"
+  },
+  {
+    "block_name": "structure_block",
+    "data": 4,
+    "color": "#443945"
+  },
+  {
+    "block_name": "structure_block",
+    "data": 5,
+    "color": "#463a47"
+  },
+  {
+    "block_name": "structure_void",
+    "data": 0,
+    "color": "#0b0000"
+  },
+  {
+    "block_name": "structure_void",
+    "data": 1,
+    "color": "#00080b"
+  },
+  {
+    "block_name": "quartz_ore",
+    "data": 0,
+    "color": "#7d544f"
+  },
+  {
+    "block_name": "hopper",
+    "data": 0,
+    "color": "#454545"
+  },
+  {
+    "block_name": "bone_block",
+    "data": 0,
+    "color": "#cdc9b1"
+  },
+  {
+    "block_name": "quartz_block",
+    "data": 0,
+    "color": "#ece9e2"
+  },
+  {
+    "block_name": "quartz_block",
+    "data": 1,
+    "color": "#e7e4db"
+  },
+  {
+    "block_name": "quartz_block",
+    "data": 2,
+    "color": "#e8e5dd"
+  },
+  {
+    "block_name": "quartz_stairs",
+    "data": 0,
+    "color": "#ece9e2"
+  },
+  {
+    "block_name": "purpur_block",
+    "data": 0,
+    "color": "#a679a6"
+  },
+  {
+    "block_name": "purpur_block",
+    "data": 1,
+    "color": "#a679a6"
+  },
+  {
+    "block_name": "purpur_block",
+    "data": 2,
+    "color": "#aa80aa"
+  },
+  {
+    "block_name": "purpur_stairs",
+    "data": 0,
+    "color": "#a679a6"
+  },
+  {
+    "block_name": "chorus_plant",
+    "data": 0,
+    "color": "#603b60"
+  },
+  {
+    "block_name": "chorus_flower",
+    "data": 0,
+    "color": "#856785"
+  },
+  {
+    "block_name": "chorus_flower",
+    "data": 1,
+    "color": "#623f60"
+  },
+  {
+    "block_name": "double_wooden_slab",
+    "data": 0,
+    "color": "#9c7f4e"
+  },
+  {
+    "block_name": "double_wooden_slab",
+    "data": 1,
+    "color": "#674d2e"
+  },
+  {
+    "block_name": "double_wooden_slab",
+    "data": 2,
+    "color": "#c3b37b"
+  },
+  {
+    "block_name": "double_wooden_slab",
+    "data": 3,
+    "color": "#9a6e4d"
+  },
+  {
+    "block_name": "double_wooden_slab",
+    "data": 4,
+    "color": "#a95b33"
+  },
+  {
+    "block_name": "double_wooden_slab",
+    "data": 5,
+    "color": "#3d2712"
+  },
+  {
+    "block_name": "wooden_slab",
+    "data": 0,
+    "color": "#9c7f4e"
+  },
+  {
+    "block_name": "wooden_slab",
+    "data": 1,
+    "color": "#674d2e"
+  },
+  {
+    "block_name": "wooden_slab",
+    "data": 2,
+    "color": "#c3b37b"
+  },
+  {
+    "block_name": "wooden_slab",
+    "data": 3,
+    "color": "#9a6e4d"
+  },
+  {
+    "block_name": "wooden_slab",
+    "data": 4,
+    "color": "#a95b33"
+  },
+  {
+    "block_name": "wooden_slab",
+    "data": 5,
+    "color": "#3d2712"
+  },
+  {
+    "block_name": "stained_hardened_clay",
+    "data": 0,
+    "color": "#d1b2a1"
+  },
+  {
+    "block_name": "stained_hardened_clay",
+    "data": 1,
+    "color": "#a15325"
+  },
+  {
+    "block_name": "stained_hardened_clay",
+    "data": 2,
+    "color": "#95586c"
+  },
+  {
+    "block_name": "stained_hardened_clay",
+    "data": 3,
+    "color": "#716c89"
+  },
+  {
+    "block_name": "stained_hardened_clay",
+    "data": 4,
+    "color": "#ba8523"
+  },
+  {
+    "block_name": "stained_hardened_clay",
+    "data": 5,
+    "color": "#677534"
+  },
+  {
+    "block_name": "stained_hardened_clay",
+    "data": 6,
+    "color": "#a14e4e"
+  },
+  {
+    "block_name": "stained_hardened_clay",
+    "data": 7,
+    "color": "#392a23"
+  },
+  {
+    "block_name": "stained_hardened_clay",
+    "data": 8,
+    "color": "#876a61"
+  },
+  {
+    "block_name": "stained_hardened_clay",
+    "data": 9,
+    "color": "#565b5b"
+  },
+  {
+    "block_name": "stained_hardened_clay",
+    "data": 10,
+    "color": "#764656"
+  },
+  {
+    "block_name": "stained_hardened_clay",
+    "data": 11,
+    "color": "#4a3b5b"
+  },
+  {
+    "block_name": "stained_hardened_clay",
+    "data": 12,
+    "color": "#4d3323"
+  },
+  {
+    "block_name": "stained_hardened_clay",
+    "data": 13,
+    "color": "#4c532a"
+  },
+  {
+    "block_name": "stained_hardened_clay",
+    "data": 14,
+    "color": "#8f3d2e"
+  },
+  {
+    "block_name": "stained_hardened_clay",
+    "data": 15,
+    "color": "#251610"
+  },
+  {
+    "block_name": "leaves2",
+    "data": 0,
+    "color": "#858585"
+  },
+  {
+    "block_name": "leaves2",
+    "data": 1,
+    "color": "#858585"
+  },
+  {
+    "block_name": "leaves2",
+    "data": 2,
+    "color": "#636363"
+  },
+  {
+    "block_name": "leaves2",
+    "data": 3,
+    "color": "#636363"
+  },
+  {
+    "block_name": "log2",
+    "data": 0,
+    "color": "#9a5b40"
+  },
+  {
+    "block_name": "log2",
+    "data": 1,
+    "color": "#4e3e29"
+  },
+  {
+    "block_name": "acacia_stairs",
+    "data": 0,
+    "color": "#a95b33"
+  },
+  {
+    "block_name": "dark_oak_stairs",
+    "data": 0,
+    "color": "#3d2712"
+  },
+  {
+    "block_name": "slime",
+    "data": 0,
+    "color": "#78c865"
+  },
+  {
+    "block_name": "iron_trapdoor",
+    "data": 0,
+    "color": "#c7c7c7"
+  },
+  {
+    "block_name": "hay_block",
+    "data": 0,
+    "color": "#a88b10"
+  },
+  {
+    "block_name": "carpet",
+    "data": 0,
+    "color": "#e9ecec"
+  },
+  {
+    "block_name": "carpet",
+    "data": 1,
+    "color": "#f07613"
+  },
+  {
+    "block_name": "carpet",
+    "data": 2,
+    "color": "#bd44b3"
+  },
+  {
+    "block_name": "carpet",
+    "data": 3,
+    "color": "#3aafd9"
+  },
+  {
+    "block_name": "carpet",
+    "data": 4,
+    "color": "#f8c527"
+  },
+  {
+    "block_name": "carpet",
+    "data": 5,
+    "color": "#70b919"
+  },
+  {
+    "block_name": "carpet",
+    "data": 6,
+    "color": "#ed8dac"
+  },
+  {
+    "block_name": "carpet",
+    "data": 7,
+    "color": "#3e4447"
+  },
+  {
+    "block_name": "carpet",
+    "data": 8,
+    "color": "#8e8e86"
+  },
+  {
+    "block_name": "carpet",
+    "data": 9,
+    "color": "#158991"
+  },
+  {
+    "block_name": "carpet",
+    "data": 10,
+    "color": "#792aac"
+  },
+  {
+    "block_name": "carpet",
+    "data": 11,
+    "color": "#35399d"
+  },
+  {
+    "block_name": "carpet",
+    "data": 12,
+    "color": "#724728"
+  },
+  {
+    "block_name": "carpet",
+    "data": 13,
+    "color": "#546d1b"
+  },
+  {
+    "block_name": "carpet",
+    "data": 14,
+    "color": "#a02722"
+  },
+  {
+    "block_name": "carpet",
+    "data": 15,
+    "color": "#141519"
+  },
+  {
+    "block_name": "hardened_clay",
+    "data": 0,
+    "color": "#965c42"
+  },
+  {
+    "block_name": "coal_block",
+    "data": 0,
+    "color": "#121212"
+  },
+  {
+    "block_name": "packed_ice",
+    "data": 0,
+    "color": "#a5c2f5"
+  },
+  {
+    "block_name": "blue_ice",
+    "data": 0,
+    "color": "#74a7fd"
+  },
+  {
+    "block_name": "dragon_egg",
+    "data": 0,
+    "color": "#0c090f"
+  },
+  {
+    "block_name": "double_plant",
+    "data": 0,
+    "color": "#436f2d"
+  },
+  {
+    "block_name": "double_plant",
+    "data": 1,
+    "color": "#babab4"
+  },
+  {
+    "block_name": "double_plant",
+    "data": 2,
+    "color": "#b9b9b9"
+  },
+  {
+    "block_name": "double_plant",
+    "data": 3,
+    "color": "#afafaf"
+  },
+  {
+    "block_name": "double_plant",
+    "data": 4,
+    "color": "#4a3b16"
+  },
+  {
+    "block_name": "double_plant",
+    "data": 5,
+    "color": "#5e5d6c"
+  },
+  {
+    "block_name": "daylight_detector_inverted",
+    "data": 0,
+    "color": "#82745e"
+  },
+  {
+    "block_name": "daylight_detector_inverted",
+    "data": 1,
+    "color": "#6a6d70"
+  },
+  {
+    "block_name": "red_sandstone",
+    "data": 0,
+    "color": "#a6551d"
+  },
+  {
+    "block_name": "red_sandstone",
+    "data": 1,
+    "color": "#a6551d"
+  },
+  {
+    "block_name": "red_sandstone",
+    "data": 2,
+    "color": "#a6551d"
+  },
+  {
+    "block_name": "red_sandstone_stairs",
+    "data": 0,
+    "color": "#a5541d"
+  },
+  {
+    "block_name": "red_sandstone_stairs",
+    "data": 1,
+    "color": "#a2521b"
+  },
+  {
+    "block_name": "red_sandstone_stairs",
+    "data": 2,
+    "color": "#a8551e"
+  },
+  {
+    "block_name": "double_stone_slab2",
+    "data": 0,
+    "color": "#a6551d"
+  },
+  {
+    "block_name": "double_stone_slab2",
+    "data": 1,
+    "color": "#a679a6"
+  },
+  {
+    "block_name": "double_stone_slab2",
+    "data": 2,
+    "color": "#6aaa96"
+  },
+  {
+    "block_name": "double_stone_slab2",
+    "data": 3,
+    "color": "#3b574b"
+  },
+  {
+    "block_name": "double_stone_slab2",
+    "data": 4,
+    "color": "#63a08f"
+  },
+  {
+    "block_name": "stone_slab2",
+    "data": 0,
+    "color": "#a6551d"
+  },
+  {
+    "block_name": "stone_slab2",
+    "data": 1,
+    "color": "#a679a6"
+  },
+  {
+    "block_name": "stone_slab2",
+    "data": 2,
+    "color": "#6aaa96"
+  },
+  {
+    "block_name": "stone_slab2",
+    "data": 3,
+    "color": "#3b574b"
+  },
+  {
+    "block_name": "stone_slab2",
+    "data": 4,
+    "color": "#63a08f"
+  },
+  {
+    "block_name": "spruce_fence_gate",
+    "data": 0,
+    "color": "#674d2e"
+  },
+  {
+    "block_name": "birch_fence_gate",
+    "data": 0,
+    "color": "#c3b37b"
+  },
+  {
+    "block_name": "jungle_fence_gate",
+    "data": 0,
+    "color": "#9a6e4d"
+  },
+  {
+    "block_name": "dark_oak_fence_gate",
+    "data": 0,
+    "color": "#3d2712"
+  },
+  {
+    "block_name": "acacia_fence_gate",
+    "data": 0,
+    "color": "#a95b33"
+  },
+  {
+    "block_name": "spruce_door",
+    "data": 0,
+    "color": "#866532"
+  },
+  {
+    "block_name": "spruce_door",
+    "data": 1,
+    "color": "#614b31"
+  },
+  {
+    "block_name": "spruce_door",
+    "data": 2,
+    "color": "#c6bd8d"
+  },
+  {
+    "block_name": "spruce_door",
+    "data": 3,
+    "color": "#926b4d"
+  },
+  {
+    "block_name": "spruce_door",
+    "data": 4,
+    "color": "#9b5836"
+  },
+  {
+    "block_name": "spruce_door",
+    "data": 5,
+    "color": "#412c17"
+  },
+  {
+    "block_name": "spruce_door",
+    "data": 6,
+    "color": "#a3a3a3"
+  },
+  {
+    "block_name": "birch_door",
+    "data": 0,
+    "color": "#866532"
+  },
+  {
+    "block_name": "birch_door",
+    "data": 1,
+    "color": "#614b31"
+  },
+  {
+    "block_name": "birch_door",
+    "data": 2,
+    "color": "#c6bd8d"
+  },
+  {
+    "block_name": "birch_door",
+    "data": 3,
+    "color": "#926b4d"
+  },
+  {
+    "block_name": "birch_door",
+    "data": 4,
+    "color": "#9b5836"
+  },
+  {
+    "block_name": "birch_door",
+    "data": 5,
+    "color": "#412c17"
+  },
+  {
+    "block_name": "birch_door",
+    "data": 6,
+    "color": "#a3a3a3"
+  },
+  {
+    "block_name": "jungle_door",
+    "data": 0,
+    "color": "#866532"
+  },
+  {
+    "block_name": "jungle_door",
+    "data": 1,
+    "color": "#614b31"
+  },
+  {
+    "block_name": "jungle_door",
+    "data": 2,
+    "color": "#c6bd8d"
+  },
+  {
+    "block_name": "jungle_door",
+    "data": 3,
+    "color": "#926b4d"
+  },
+  {
+    "block_name": "jungle_door",
+    "data": 4,
+    "color": "#9b5836"
+  },
+  {
+    "block_name": "jungle_door",
+    "data": 5,
+    "color": "#412c17"
+  },
+  {
+    "block_name": "jungle_door",
+    "data": 6,
+    "color": "#a3a3a3"
+  },
+  {
+    "block_name": "acacia_door",
+    "data": 0,
+    "color": "#866532"
+  },
+  {
+    "block_name": "acacia_door",
+    "data": 1,
+    "color": "#614b31"
+  },
+  {
+    "block_name": "acacia_door",
+    "data": 2,
+    "color": "#c6bd8d"
+  },
+  {
+    "block_name": "acacia_door",
+    "data": 3,
+    "color": "#926b4d"
+  },
+  {
+    "block_name": "acacia_door",
+    "data": 4,
+    "color": "#9b5836"
+  },
+  {
+    "block_name": "acacia_door",
+    "data": 5,
+    "color": "#412c17"
+  },
+  {
+    "block_name": "acacia_door",
+    "data": 6,
+    "color": "#a3a3a3"
+  },
+  {
+    "block_name": "dark_oak_door",
+    "data": 0,
+    "color": "#866532"
+  },
+  {
+    "block_name": "dark_oak_door",
+    "data": 1,
+    "color": "#614b31"
+  },
+  {
+    "block_name": "dark_oak_door",
+    "data": 2,
+    "color": "#c6bd8d"
+  },
+  {
+    "block_name": "dark_oak_door",
+    "data": 3,
+    "color": "#926b4d"
+  },
+  {
+    "block_name": "dark_oak_door",
+    "data": 4,
+    "color": "#9b5836"
+  },
+  {
+    "block_name": "dark_oak_door",
+    "data": 5,
+    "color": "#412c17"
+  },
+  {
+    "block_name": "dark_oak_door",
+    "data": 6,
+    "color": "#a3a3a3"
+  },
+  {
+    "block_name": "grass_path",
+    "data": 0,
+    "color": "#957c47"
+  },
+  {
+    "block_name": "frame",
+    "data": 0,
+    "color": "#76442c"
+  },
+  {
+    "block_name": "podzol",
+    "data": 0,
+    "color": "#5a3f1c"
+  },
+  {
+    "block_name": "beetroot",
+    "data": 0,
+    "color": "#01ab10"
+  },
+  {
+    "block_name": "beetroot",
+    "data": 1,
+    "color": "#01bb0f"
+  },
+  {
+    "block_name": "beetroot",
+    "data": 2,
+    "color": "#00be10"
+  },
+  {
+    "block_name": "beetroot",
+    "data": 3,
+    "color": "#507135"
+  },
+  {
+    "block_name": "stonecutter",
+    "data": 0,
+    "color": "#727474"
+  },
+  {
+    "block_name": "glowingobsidian",
+    "data": 0,
+    "color": "#50020c"
+  },
+  {
+    "block_name": "netherreactor",
+    "data": 0,
+    "color": "#78adb7"
+  },
+  {
+    "block_name": "netherreactor",
+    "data": 1,
+    "color": "#8e1b1c"
+  },
+  {
+    "block_name": "netherreactor",
+    "data": 2,
+    "color": "#131227"
+  },
+  {
+    "block_name": "info_update",
+    "data": 0,
+    "color": "#74703b"
+  },
+  {
+    "block_name": "info_update2",
+    "data": 0,
+    "color": "#74703b"
+  },
+  {
+    "block_name": "movingBlock",
+    "data": 0,
+    "color": "#74703b"
+  },
+  {
+    "block_name": "observer",
+    "data": 0,
+    "color": "#616161"
+  },
+  {
+    "block_name": "observer",
+    "data": 1,
+    "color": "#616161"
+  },
+  {
+    "block_name": "reserved6",
+    "data": 0,
+    "color": "#74703b"
+  },
+  {
+    "block_name": "fire",
+    "data": 0,
+    "color": "#d48e34"
+  },
+  {
+    "block_name": "prismarine",
+    "data": 0,
+    "color": "#6aaa96"
+  },
+  {
+    "block_name": "prismarine",
+    "data": 1,
+    "color": "#3b574b"
+  },
+  {
+    "block_name": "prismarine",
+    "data": 2,
+    "color": "#63a08f"
+  },
+  {
+    "block_name": "seaLantern",
+    "data": 0,
+    "color": "#acc8be"
+  },
+  {
+    "block_name": "sea_pickle",
+    "data": 0,
+    "color": "#5a6127"
+  },
+  {
+    "block_name": "turtle_egg",
+    "data": 0,
+    "color": "#e4e2bf"
+  },
+  {
+    "block_name": "turtle_egg",
+    "data": 1,
+    "color": "#dad6b1"
+  },
+  {
+    "block_name": "turtle_egg",
+    "data": 2,
+    "color": "#cfcba5"
+  },
+  {
+    "block_name": "ender_chest",
+    "data": 0,
+    "color": "#293a3c"
+  },
+  {
+    "block_name": "stained_glass",
+    "data": 0,
+    "color": "#ffffff"
+  },
+  {
+    "block_name": "stained_glass",
+    "data": 1,
+    "color": "#d87f33"
+  },
+  {
+    "block_name": "stained_glass",
+    "data": 2,
+    "color": "#b24cd8"
+  },
+  {
+    "block_name": "stained_glass",
+    "data": 3,
+    "color": "#6699d8"
+  },
+  {
+    "block_name": "stained_glass",
+    "data": 4,
+    "color": "#e5e533"
+  },
+  {
+    "block_name": "stained_glass",
+    "data": 5,
+    "color": "#7fcc19"
+  },
+  {
+    "block_name": "stained_glass",
+    "data": 6,
+    "color": "#f27fa5"
+  },
+  {
+    "block_name": "stained_glass",
+    "data": 7,
+    "color": "#4c4c4c"
+  },
+  {
+    "block_name": "stained_glass",
+    "data": 8,
+    "color": "#999999"
+  },
+  {
+    "block_name": "stained_glass",
+    "data": 9,
+    "color": "#4c7f99"
+  },
+  {
+    "block_name": "stained_glass",
+    "data": 10,
+    "color": "#7f3fb2"
+  },
+  {
+    "block_name": "stained_glass",
+    "data": 11,
+    "color": "#334cb2"
+  },
+  {
+    "block_name": "stained_glass",
+    "data": 12,
+    "color": "#664c33"
+  },
+  {
+    "block_name": "stained_glass",
+    "data": 13,
+    "color": "#667f33"
+  },
+  {
+    "block_name": "stained_glass",
+    "data": 14,
+    "color": "#993333"
+  },
+  {
+    "block_name": "stained_glass",
+    "data": 15,
+    "color": "#191919"
+  },
+  {
+    "block_name": "stained_glass_pane",
+    "data": 0,
+    "color": "#ffffff"
+  },
+  {
+    "block_name": "stained_glass_pane",
+    "data": 1,
+    "color": "#d87f33"
+  },
+  {
+    "block_name": "stained_glass_pane",
+    "data": 2,
+    "color": "#b24cd8"
+  },
+  {
+    "block_name": "stained_glass_pane",
+    "data": 3,
+    "color": "#6699d8"
+  },
+  {
+    "block_name": "stained_glass_pane",
+    "data": 4,
+    "color": "#e5e533"
+  },
+  {
+    "block_name": "stained_glass_pane",
+    "data": 5,
+    "color": "#7fcc19"
+  },
+  {
+    "block_name": "stained_glass_pane",
+    "data": 6,
+    "color": "#f27fa5"
+  },
+  {
+    "block_name": "stained_glass_pane",
+    "data": 7,
+    "color": "#4c4c4c"
+  },
+  {
+    "block_name": "stained_glass_pane",
+    "data": 8,
+    "color": "#999999"
+  },
+  {
+    "block_name": "stained_glass_pane",
+    "data": 9,
+    "color": "#4c7f99"
+  },
+  {
+    "block_name": "stained_glass_pane",
+    "data": 10,
+    "color": "#7f3fb2"
+  },
+  {
+    "block_name": "stained_glass_pane",
+    "data": 11,
+    "color": "#334cb2"
+  },
+  {
+    "block_name": "stained_glass_pane",
+    "data": 12,
+    "color": "#664c33"
+  },
+  {
+    "block_name": "stained_glass_pane",
+    "data": 13,
+    "color": "#667f33"
+  },
+  {
+    "block_name": "stained_glass_pane",
+    "data": 14,
+    "color": "#993333"
+  },
+  {
+    "block_name": "stained_glass_pane",
+    "data": 15,
+    "color": "#191919"
+  },
+  {
+    "block_name": "shulker_box",
+    "data": 0,
+    "color": "#d7dcdd"
+  },
+  {
+    "block_name": "shulker_box",
+    "data": 1,
+    "color": "#ea6a08"
+  },
+  {
+    "block_name": "shulker_box",
+    "data": 2,
+    "color": "#ad36a3"
+  },
+  {
+    "block_name": "shulker_box",
+    "data": 3,
+    "color": "#31a3d4"
+  },
+  {
+    "block_name": "shulker_box",
+    "data": 4,
+    "color": "#f8bc1d"
+  },
+  {
+    "block_name": "shulker_box",
+    "data": 5,
+    "color": "#63ac17"
+  },
+  {
+    "block_name": "shulker_box",
+    "data": 6,
+    "color": "#e6799d"
+  },
+  {
+    "block_name": "shulker_box",
+    "data": 7,
+    "color": "#373a3e"
+  },
+  {
+    "block_name": "shulker_box",
+    "data": 8,
+    "color": "#7c7c73"
+  },
+  {
+    "block_name": "shulker_box",
+    "data": 9,
+    "color": "#147987"
+  },
+  {
+    "block_name": "shulker_box",
+    "data": 10,
+    "color": "#67209c"
+  },
+  {
+    "block_name": "shulker_box",
+    "data": 11,
+    "color": "#2b2d8c"
+  },
+  {
+    "block_name": "shulker_box",
+    "data": 12,
+    "color": "#6a4223"
+  },
+  {
+    "block_name": "shulker_box",
+    "data": 13,
+    "color": "#4f641f"
+  },
+  {
+    "block_name": "shulker_box",
+    "data": 14,
+    "color": "#8c1f1e"
+  },
+  {
+    "block_name": "shulker_box",
+    "data": 15,
+    "color": "#19191d"
+  },
+  {
+    "block_name": "shulker_box",
+    "data": 16,
+    "color": "#8b608b"
+  },
+  {
+    "block_name": "undyed_shulker_box",
+    "data": 0,
+    "color": "#8b608b"
+  },
+  {
+    "block_name": "command_block",
+    "data": 0,
+    "color": "#a8816b"
+  },
+  {
+    "block_name": "repeating_command_block",
+    "data": 0,
+    "color": "#7969a8"
+  },
+  {
+    "block_name": "chain_command_block",
+    "data": 0,
+    "color": "#7f9b8f"
+  },
+  {
+    "block_name": "concrete",
+    "data": 0,
+    "color": "#cfd5d6"
+  },
+  {
+    "block_name": "concrete",
+    "data": 1,
+    "color": "#e06100"
+  },
+  {
+    "block_name": "concrete",
+    "data": 2,
+    "color": "#a9309f"
+  },
+  {
+    "block_name": "concrete",
+    "data": 3,
+    "color": "#2389c6"
+  },
+  {
+    "block_name": "concrete",
+    "data": 4,
+    "color": "#f0af15"
+  },
+  {
+    "block_name": "concrete",
+    "data": 5,
+    "color": "#5ea818"
+  },
+  {
+    "block_name": "concrete",
+    "data": 6,
+    "color": "#d5658e"
+  },
+  {
+    "block_name": "concrete",
+    "data": 7,
+    "color": "#36393d"
+  },
+  {
+    "block_name": "concrete",
+    "data": 8,
+    "color": "#7d7d73"
+  },
+  {
+    "block_name": "concrete",
+    "data": 9,
+    "color": "#157788"
+  },
+  {
+    "block_name": "concrete",
+    "data": 10,
+    "color": "#641f9c"
+  },
+  {
+    "block_name": "concrete",
+    "data": 11,
+    "color": "#2c2e8f"
+  },
+  {
+    "block_name": "concrete",
+    "data": 12,
+    "color": "#603b1f"
+  },
+  {
+    "block_name": "concrete",
+    "data": 13,
+    "color": "#495b24"
+  },
+  {
+    "block_name": "concrete",
+    "data": 14,
+    "color": "#8e2020"
+  },
+  {
+    "block_name": "concrete",
+    "data": 15,
+    "color": "#080a0f"
+  },
+  {
+    "block_name": "concretePowder",
+    "data": 0,
+    "color": "#e1e3e3"
+  },
+  {
+    "block_name": "concretePowder",
+    "data": 1,
+    "color": "#e3831f"
+  },
+  {
+    "block_name": "concretePowder",
+    "data": 2,
+    "color": "#c053b8"
+  },
+  {
+    "block_name": "concretePowder",
+    "data": 3,
+    "color": "#4ab4d5"
+  },
+  {
+    "block_name": "concretePowder",
+    "data": 4,
+    "color": "#e8c736"
+  },
+  {
+    "block_name": "concretePowder",
+    "data": 5,
+    "color": "#7dbd29"
+  },
+  {
+    "block_name": "concretePowder",
+    "data": 6,
+    "color": "#e499b5"
+  },
+  {
+    "block_name": "concretePowder",
+    "data": 7,
+    "color": "#4c5154"
+  },
+  {
+    "block_name": "concretePowder",
+    "data": 8,
+    "color": "#9a9a94"
+  },
+  {
+    "block_name": "concretePowder",
+    "data": 9,
+    "color": "#24939d"
+  },
+  {
+    "block_name": "concretePowder",
+    "data": 10,
+    "color": "#8337b1"
+  },
+  {
+    "block_name": "concretePowder",
+    "data": 11,
+    "color": "#4649a6"
+  },
+  {
+    "block_name": "concretePowder",
+    "data": 12,
+    "color": "#7d5435"
+  },
+  {
+    "block_name": "concretePowder",
+    "data": 13,
+    "color": "#61772c"
+  },
+  {
+    "block_name": "concretePowder",
+    "data": 14,
+    "color": "#a83632"
+  },
+  {
+    "block_name": "concretePowder",
+    "data": 15,
+    "color": "#191a1f"
+  },
+  {
+    "block_name": "black_glazed_terracotta",
+    "data": 0,
+    "color": "#431e20"
+  },
+  {
+    "block_name": "blue_glazed_terracotta",
+    "data": 0,
+    "color": "#2f408b"
+  },
+  {
+    "block_name": "brown_glazed_terracotta",
+    "data": 0,
+    "color": "#776a55"
+  },
+  {
+    "block_name": "cyan_glazed_terracotta",
+    "data": 0,
+    "color": "#34767d"
+  },
+  {
+    "block_name": "gray_glazed_terracotta",
+    "data": 0,
+    "color": "#535a5d"
+  },
+  {
+    "block_name": "green_glazed_terracotta",
+    "data": 0,
+    "color": "#758e43"
+  },
+  {
+    "block_name": "light_blue_glazed_terracotta",
+    "data": 0,
+    "color": "#5ea4d0"
+  },
+  {
+    "block_name": "lime_glazed_terracotta",
+    "data": 0,
+    "color": "#a2c537"
+  },
+  {
+    "block_name": "magenta_glazed_terracotta",
+    "data": 0,
+    "color": "#d064bf"
+  },
+  {
+    "block_name": "orange_glazed_terracotta",
+    "data": 0,
+    "color": "#9a935b"
+  },
+  {
+    "block_name": "pink_glazed_terracotta",
+    "data": 0,
+    "color": "#eb9ab5"
+  },
+  {
+    "block_name": "purple_glazed_terracotta",
+    "data": 0,
+    "color": "#6d3098"
+  },
+  {
+    "block_name": "red_glazed_terracotta",
+    "data": 0,
+    "color": "#b53b35"
+  },
+  {
+    "block_name": "silver_glazed_terracotta",
+    "data": 0,
+    "color": "#90a6a7"
+  },
+  {
+    "block_name": "white_glazed_terracotta",
+    "data": 0,
+    "color": "#bcd4ca"
+  },
+  {
+    "block_name": "yellow_glazed_terracotta",
+    "data": 0,
+    "color": "#eac058"
+  },
+  {
+    "block_name": "frosted_ice",
+    "data": 0,
+    "color": "#7dadff"
+  },
+  {
+    "block_name": "frosted_ice",
+    "data": 1,
+    "color": "#84b2ff"
+  },
+  {
+    "block_name": "frosted_ice",
+    "data": 2,
+    "color": "#89b5ff"
+  },
+  {
+    "block_name": "frosted_ice",
+    "data": 3,
+    "color": "#93bcff"
+  },
+  {
+    "block_name": "standing_banner",
+    "data": 0,
+    "color": "#9c7f4e"
+  },
+  {
+    "block_name": "standing_banner",
+    "data": 1,
+    "color": "#674d2e"
+  },
+  {
+    "block_name": "standing_banner",
+    "data": 2,
+    "color": "#c3b37b"
+  },
+  {
+    "block_name": "standing_banner",
+    "data": 3,
+    "color": "#9a6e4d"
+  },
+  {
+    "block_name": "standing_banner",
+    "data": 4,
+    "color": "#a95b33"
+  },
+  {
+    "block_name": "standing_banner",
+    "data": 5,
+    "color": "#3d2712"
+  },
+  {
+    "block_name": "wall_banner",
+    "data": 0,
+    "color": "#9c7f4e"
+  },
+  {
+    "block_name": "wall_banner",
+    "data": 1,
+    "color": "#674d2e"
+  },
+  {
+    "block_name": "wall_banner",
+    "data": 2,
+    "color": "#c3b37b"
+  },
+  {
+    "block_name": "wall_banner",
+    "data": 3,
+    "color": "#9a6e4d"
+  },
+  {
+    "block_name": "wall_banner",
+    "data": 4,
+    "color": "#a95b33"
+  },
+  {
+    "block_name": "wall_banner",
+    "data": 5,
+    "color": "#3d2712"
+  },
+  {
+    "block_name": "prismarine_stairs",
+    "data": 0,
+    "color": "#6aaa96"
+  },
+  {
+    "block_name": "prismarine_stairs",
+    "data": 1,
+    "color": "#3b574b"
+  },
+  {
+    "block_name": "prismarine_stairs",
+    "data": 2,
+    "color": "#63a08f"
+  },
+  {
+    "block_name": "dark_prismarine_stairs",
+    "data": 0,
+    "color": "#3b574b"
+  },
+  {
+    "block_name": "prismarine_bricks_stairs",
+    "data": 0,
+    "color": "#63a08f"
+  },
+  {
+    "block_name": "bubble_column",
+    "data": 0,
+    "color": "#58c4f5"
+  },
+  {
+    "block_name": "bubble_column",
+    "data": 1,
+    "color": "#58c4f5"
+  },
+  {
+    "block_name": "bubble_column",
+    "data": 2,
+    "color": "#58c4f5"
+  },
+  {
+    "block_name": "bubble_column",
+    "data": 3,
+    "color": "#58c4f5"
+  },
+  {
+    "block_name": "bamboo",
+    "data": 0,
+    "color": "#6f9c1e"
+  },
+  {
+    "block_name": "bamboo_sapling",
+    "data": 0,
+    "color": "#5c5923"
+  },
+  {
+    "block_name": "scaffolding",
+    "data": 0,
+    "color": "#c3a25c"
+  }
+]

@@ -1,0 +1,27 @@
+﻿[
+    {
+        "dname": "minecraft:air",
+        "legacy_id": 0,
+        "runtime_id": 0,
+        "data": 0,
+        "color": "#010101",
+        "name": "Air"
+    },
+    {
+        "dname": "minecraft:stone",
+        "legacy_id": 1,
+        "data": 1,
+        "runtime_id": 2,
+        "color": "#a0a0a0",
+        "name": "Stone"
+    },
+    {
+        "dname": "minecraft:stone",
+        "legacy_id": 1,
+        "data": 1,
+        "name": "Granite",
+        "runtime_id": 2,
+        "inferred_color": true,
+        "color": "#a0a0a1"
+    }
+]
